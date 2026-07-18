@@ -12,7 +12,7 @@ Currently, I am working on building my own portfolio website while also doing ot
 
 I am currently learning React and Tailwind.
 
-You can reach me at: [Contact Me](mailto:steven.dhwdj@gmail.com)
+You can reach me at: [steven.dhwdj@gmail.com](mailto:steven.dhwdj@gmail.com)
 
 Fun fact: 
 - I can speak 3 languages
